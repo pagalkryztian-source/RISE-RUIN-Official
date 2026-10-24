@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+Climb-backup-before-changes.tar.gzClimb-backup-before-changes.tar.gz
+Climb-backup-before-changes.tar.gz
