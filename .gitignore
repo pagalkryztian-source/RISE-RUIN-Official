@@ -2,13 +2,4 @@
 __pycache__/
 *.py[cod]
 .env
-Climb-backup-before-changes.tar.gzClimb-backup-before-changes.tar.gz
-Climb-backup-before-changes.tar.gz
-
-# Local Python environment and caches
-.venv/
-__pycache__/
-*.py[cod]
-
-# Backup archive
 Climb-backup-before-changes.tar.gz
