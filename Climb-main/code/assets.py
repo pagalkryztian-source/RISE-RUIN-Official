@@ -56,7 +56,7 @@ SPRITES = {
     "bg_layer_3":        {"file": "/home/mrrobot/Climb/Climb-main/data/levels/bg layer 3.png"},
 
     # ------------------------------------------------------------ level objects
-    "goal":              {"file": "/home/mrrobot/Climb (BACKUP)/Climb-main/graphics/General Assets/Cave_exit.png", "color": "goal"},
+    "goal":              {"file": "/home/mrrobot/RISE & RUIN Official/Climb-main/graphics/General Assets/Cave_exit.png", "color": "goal"},
     "moving_platform":   {"file": "objects/moving_platform.png", "color": "moving_platform"},
     "moving_block":      {"file": "objects/moving_block.png", "color": "moving_block"},
     "small obj":         {"file": "objects/small obj.png"},     # path platforms (Tiled name)
